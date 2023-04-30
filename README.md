@@ -6,7 +6,6 @@
   <a href = "mailto:aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    ##
-  <h3> 📚 Estudando: <br></h3>
    
   <div align="left" style="display: inline_block">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
