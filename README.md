@@ -17,5 +17,5 @@
   <h3> 📚 Github Stats: <br></h3>
    
 <!--cartao responsivo-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-Stos&show_icons=true&theme=transparent);
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Stos&layout=compact)](https://github.com/Caroline-Stos/github-readme-stats);
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-Stos&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Stos&layout=compact)](https://github.com/Caroline-Stos/github-readme-stats)
