@@ -1,4 +1,5 @@
-<h3> Olá, eu sou Caroline Lima! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+<h3> Olá, eu sou Caroline Lima! 😉 </h3> 
+<h3>🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋  </h3>  
 <h4></h4> 
 <h3> 🌐 Redes Sociais: <br></h3>
 
